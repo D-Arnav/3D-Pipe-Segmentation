@@ -1,0 +1,5 @@
+inference_sdk==1.1.2
+numpy==2.4.4
+open3d==0.18.0
+opencv_python==4.10.0.84
+scipy==1.17.1
