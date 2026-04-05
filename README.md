@@ -33,7 +33,7 @@ scipy==1.17.1
 
 ### Dataset
 
-- [Pump.e57]((http://www.libe57.org/data.html)) converted to .ply
+- [Pump.e57](http://www.libe57.org/data.html) converted to .ply
 - Already included in this repo
 
 ### Running the code
